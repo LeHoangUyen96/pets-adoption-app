@@ -1,0 +1,6 @@
+# Referenced at /Users/uyen/Documents/pets-adoption-app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/uyen/Documents/pets-adoption-app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class com.example.pets_adoption_app_ui.MainActivity { <init>(); }
+# Referenced at /Users/uyen/Documents/pets-adoption-app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }

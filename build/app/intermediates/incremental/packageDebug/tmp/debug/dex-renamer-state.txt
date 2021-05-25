@@ -1,0 +1,4 @@
+#Fri Feb 05 10:34:41 ICT 2021
+base.0=/Users/uyen/Documents/pets-adoption-app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
